@@ -37,4 +37,6 @@ urllib3==2.2.3
 Werkzeug==3.0.6
 zipp==3.21.0
 gunicorn==21.2.0
-scikit-learn
+scikit-learn==1.5.2
+setuptools==75.6.0
+wheel==0.45.1
